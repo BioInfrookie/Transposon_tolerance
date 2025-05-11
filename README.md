@@ -1,2 +1,3 @@
-# Transposon_tolerance
-Maternal piRNAs buffer evolutionary divergence through transposon tolerance
+# Maternal piRNAs buffer evolutionary divergence through transposon tolerance
+## Abstract
+Genome compatibility lies in the heart of evolution. However, the role of non-coding elements in speciation remains poorly understood. In Drosophila, deleting major piRNA clusters does not affect embryogenesis or transposon silencing in laboratory strains. Here, we reveal that maternally inherited PIWI-interacting RNAs (piRNAs) are crucial for the embryonic viability of interspecific hybrids. We demonstrate that the Argonaute-2 bound endogenous small interfering RNA pathway can compensate for piRNA loss, only in laboratory strains but not in hybrids. Remarkably, in mammals, mouse oocytes lacking all piRNAs severely impairs their pre-implantation development when fertilized by sperm from another sub-species, despite with normal developmental potential as inbreds. We propose that maternal piRNAs protect genomes from newly introduced or “foreign” transposons, thereby enhancing hybrid viability and potentially “bluring” speciation boundaries by suppressing transposon divergence.
